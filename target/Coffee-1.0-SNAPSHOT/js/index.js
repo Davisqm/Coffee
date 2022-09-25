@@ -45,7 +45,7 @@ function registrarUsuario() {
     let username = $("#input-username").val();
     let contrasena = $("#input-contrasena").val();
     let contrasenaConfirmacion = $("#input-contrasena-repeat").val();
-    let nombres = $("#input-nombre").val();
+    let nombres = $("#input-nombres").val();
     let apellidos = $("#input-apellidos").val();
     let ciudad = $("#input-ciudad").val();
     let telefono = $("#input-telefono").val();
