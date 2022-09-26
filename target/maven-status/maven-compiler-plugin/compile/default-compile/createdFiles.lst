@@ -1,9 +1,9 @@
-beans\Usuario.class
-beans\Cafe.class
-controller\UsuarioController.class
 beans\Venta.class
 controller\IUsuarioController.class
 servlets\PruebaServlet.class
+beans\Usuario.class
+beans\Cafe.class
+controller\UsuarioController.class
 test\OperacionesBD.class
 servlets\ServletUsuarioLogin.class
 connection\DBConnection.class

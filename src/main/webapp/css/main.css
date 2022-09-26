@@ -1,0 +1,14 @@
+#main-menu{
+	
+	left:unset;
+	right: 0;
+}
+
+#ordenar-cafe{
+	cursor:pointer;
+}
+
+#form-container{
+	width:40vw;
+}
+
