@@ -1,0 +1,9 @@
+html, body{
+
+    background-image: url('https://st.depositphotos.com/2441807/2729/i/950/depositphotos_27293369-stock-photo-coffee-background.jpg');
+    background-image: url('https://www.caracteristicas.co/wp-content/uploads/2018/09/caf%C3%A9-e1578772027254.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
